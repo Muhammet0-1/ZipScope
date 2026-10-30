@@ -1,0 +1,5 @@
+ZipScope 1.0.0
+Copyright (c) 2026 MS
+Released under the MIT license; see LICENSE.
+The LICENSE member inside synthetic demo ZIPs is only an inventory placeholder.
+The CLI and tests use only the Python standard library.
